@@ -32,4 +32,17 @@
     <string name="events">Events</string>
     <string name="buddies">Buddies</string>
     <string name="chat">Chat</string>
+    <string name="create_event">Create Event</string>
+    <string name="event_title">Event Title</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="max_participants">Max Participants</string>
+    <string name="min_exp_level">Minimum Experience Level</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
 </resources>
